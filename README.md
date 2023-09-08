@@ -4,21 +4,28 @@ Steps to follow:
 
 1. Run the program training.py
 2. The program will 500 epochs and create chatbot_model.h5, labels.pkl and words.pkl files.  The sample files are attached.
-
+<pre>
+</br>
 Epoch 1/500
+</br>
 ......
 Epoch 498/500
 10/10 [==============================] - 0s 2ms/step - loss: 0.0372 - accuracy: 0.9722
+</br>
 Epoch 499/500
 10/10 [==============================] - 0s 0s/step - loss: 0.0887 - accuracy: 0.9595
+</br>
 Epoch 500/500
 10/10 [==============================] - 0s 2ms/step - loss: 0.0592 - accuracy: 0.9393
+</br>
+</pre>
 Done
 
 3. Run the program chatbot.py
 4. Start chat with AI Chatbot
 5. Below few chats with AI Chatbot
-
+</br
+  
 Bot: Hi! How can I help you
 
 User: hi
