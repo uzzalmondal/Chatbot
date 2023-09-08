@@ -1,4 +1,6 @@
-<b style=" color: Green"> # Chatbot </b>
+<b style=" color: Green"> # Chatbot </b></br>
+![MOS-using-chatbot-OC23DD](https://github.com/uzzalmondal/Chatbot/assets/16765803/91d78d2c-ed7a-4e28-a3be-3ec279d80260)
+
 Artificial Intelligent Chatbot Using Neural Networks and Natural Language Processing
 Steps to follow:
 
