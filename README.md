@@ -1,4 +1,4 @@
-# Chatbot
+<b style=" color: Green"> # Chatbot </b>
 Artificial Intelligent Chatbot Using Neural Networks and Natural Language Processing
 Steps to follow:
 
@@ -24,7 +24,7 @@ Done
 3. Run the program chatbot.py
 4. Start chat with AI Chatbot
 5. Below few chats with AI Chatbot
-</br
+</br>
   
 Bot: Hi! How can I help you
 
@@ -47,3 +47,5 @@ Bot: Please provide order number.
 User: 123456789
 
 Bot: The Order is ready to deliver on 3rd June 2021.
+
+<b style=" color: red "> Future Plan: Increase the intent by applying entity and text generation techniques.</b>
